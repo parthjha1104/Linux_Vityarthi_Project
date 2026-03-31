@@ -2,7 +2,7 @@
 # Script 1: System Identity Report
 # Course: Open Source Software
 # --- Variables ---
-STUDENT_NAME="Your Name Here"
+STUDENT_NAME="PARTH JHA"
 SOFTWARE_CHOICE="MySQL Community Edition"
 
 # --- System info via command substitution ---
